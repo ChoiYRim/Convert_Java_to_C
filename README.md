@@ -1,5 +1,10 @@
 # Convert_Java_to_C
 
+[CAUTION]
+
+I'm not a native english speaker, so please consider it when you read this script.
+This program was written at Ubuntu Linux.
+
 This project files are simple real-time converting program from C file to Java file
 , but it can only convert C files to Java files in limited circumstances.
 
