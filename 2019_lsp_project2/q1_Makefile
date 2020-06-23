@@ -1,6 +1,0 @@
-q1 : q1.o
-	gcc -o q1 q1.o
-
-q1.o : q1.c
-	gcc -c -o q1.o q1.c
-
