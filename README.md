@@ -29,6 +29,10 @@ Before running these files, you have to set up some java options.
 There are several options that you can use. If you do not input any option, the program will just convert the java file to 
 file.
 
+0. default (none-option) : just convert java file to C file and print the message.
+
+![noneoption.png]/(./image/noneoption.png)
+
 1. '-j' option, the program will show you the code that you want to convert.
 
 ![joption.png]/(./image/joption.png)
